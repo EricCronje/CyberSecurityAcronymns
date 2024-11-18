@@ -1,0 +1,90 @@
+AAA	|Authentication Authorization Accounting
+ACL	|Access Control List
+ACMA	|Australian Communications and Media Authority
+AES	|Advanced Encryption Standard
+AP	|Access Point
+API	|Application Programming Interface
+APT	|Advanced Persistent Threat
+ARP	|Address Resolution Protocol
+AH	|Authentication Header
+AUP	|Accepted User Protocol
+ARO	|Annual Rate of Occurance
+ALE	|Annual Loss Expectency
+AIR	|After Incident Report
+APM	|Application Performance Monitoring
+ABAC	|Attribute Based Access Control
+AMSI	|Antimalware Scan Instance
+BASH	|Born again shell
+BIA	|Business Impact Analysis
+BOM	|Bill Of Materials
+BPA	|Business Partner Agreement
+BYOD	|Bring Your Own Device
+CA	|Certificate of Authority
+CIA	|Confidentiality Integrity Accesibility
+CISO	|Chief Information Security Officer
+CDM(1)	|Continues Diagnostics and Mitigations (Engine system)
+CDM(2)	|Client Delivery Manager (Business)
+CI/CD	|Continues Integration/Continues Development/Deployment
+CSIR	|Certificate Signing Request
+CASB	|Cloud Access Security Broker
+CYOD	|Choose Your Own Device
+CMDB	|Configuration Management Database
+CRL	|Certificate Revocation List
+CVE	|Common Vulnerability Exposure
+CVSS	|Common Vulnerability Scoring System
+CERT	|Computer Emergency Response Team
+COPE	|Corporate Owned, Personally Enabled
+CPI	|Common Platform Information
+3DES	|Tripple Data Encryption Standards
+DR	|Disaster Recovery
+DACL	|Discretionary Access Control List
+DoS	|Denial of service attack
+DOM	|Domain Object Model
+DMZ	|Demilitarized zone
+DAST	|Dynamic Application Security Testing
+DDoS	|Distributed or denial of service attack
+DLP	|Data Loss Prevention
+DAC	|Discretionary Access Control
+DPS	|DDOS Protection Systems
+DMARC	|Domain-based Message Authentication, Reporting and conformance
+EMAIL	|Electronic mail
+EDR	|Endpoint Detection and Response
+EF(1)	|Exposure Factori
+EF(2)	|Entity Framework
+EAP	|Extensible authentication protocol
+EAPoL	|Extensible authentication protocol over lan
+ESP	|Encapsulated secure payload
+FPGA	|Field Programmable Gate Array
+GRC	|Governence, Risk Management and Compliance
+HA	|High availability
+HSM	|Hardware Secure Module
+HTTPS	|Hyper Text Transfer Protocol Secure
+HVT	|High Value Tokens
+HIPS	|Host based Intrution prevention systems
+HIDS	|Host based intrution systems
+HCL	|Hardware Compatibility list
+HBA	|Host Bus Adapter
+IDS	|Intrution detection systems
+IP(1)	|Internet Protocol
+IP(2)	|Intelectual Property
+IPS	|Intrution Prevention systems
+IGMP	|Internet Group Management Protocol
+CMP	|Internet Control Message Protocol
+OC	|Indication of Compromise
+PSEC	|Internet Protocol Security
+IM	|Instant messages
+IOT	|Internet-Of-Things
+IaC	|Infrastructure-As-Code
+IaaS	|Infrastructure-As-A-Service
+PaaS	|Platform-As-A-Service
+SaaS	|Software-As-A-Service
+IC	|Integrated circuit
+IAM	|Identity and Access Management
+IdP	|Identity Provider
+IRT	|Incident response team
+IPFIX	|Internet Protocol Flow Information Export
+IA	|Information assurance
+ICV	|Integrity Check Value
+JSON	|Javascript Object Notation
+KMS	|Key Management System
+
